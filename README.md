@@ -7,7 +7,7 @@ High Cloud Airlines is a leading global aviation company committed to delivering
 High Cloud Airline is seeking to improve operational efficiency, route optimization, and passenger satisfaction through data analysis for the given data between 2008 to 2013.
 
 Tools Used:
-1) Excel: Data Cleanin
+1) Excel: Data Cleaning
 2) SQL: Data Analysis
 3) PowerBI: Creating Reports
 4) Tableau: Creating Interactive Reports
